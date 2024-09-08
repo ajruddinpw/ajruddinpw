@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajruddinpw&label=Profile%20views&color=0e75b6&style=flat" alt="ajruddinpw" /> </p>
 
-- 🔭 I’m currently working on spring framework **WatchlistApp**
+- 🔭 I’m currently working on spring framework **WatchlistApp Project**
 
 - 🌱 I’m currently learning **Spring, SpringBoot**
 
