@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm MOHAMMAD AJRUDDIN ALI</h1>
-<h3 align="center">A passionate JAVA developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajruddinpw&label=Profile%20views&color=0e75b6&style=flat" alt="ajruddinpw" /> </p>
 
 - 🔭 I’m currently working on spring framework **WatchlistApp Project**
 
-- 🌱 I’m currently learning **Spring, SpringBoot**
+- 🌱 I’m currently learning **Spring, SpringBoot , NodeJs**
 
 - 👯 I’m looking to collaborate on fiverrindia **Fiverrindia**
 
-- 💬 Ask me about **springboot**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **mohammadajruddinali@gmail.com**
 
